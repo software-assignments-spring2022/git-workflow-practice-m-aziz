@@ -8,3 +8,5 @@ The article exhibits a positive reaction to this technology as it speaks about t
 3. doing data entry.
 
 While these robots makes things run more smoothly, the robot cannot function without the direction of the human, which is a big flaw of these systems.
+
+> It is interesting that the article suggests to use RPA as a communication tool between developers to save time. However, I wonder if it will serve as a disavantage to eliminate direct communication between developers. - Aila Aamir 
