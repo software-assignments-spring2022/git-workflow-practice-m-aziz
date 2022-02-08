@@ -1,7 +1,5 @@
 # Robotic Process Automation
 
-A simple project to practice a few git/github workflows. Replace the contents of this file with the contents indicated in the [instructions](https://sdtimes.com/softwaredev/rpa-handling-mundane-tasks-freeing-up-developers/).
-
 While it may occur that only blue collar jobs are being overtaken by the growing automation of robots and other smarter software systems. A recent [article](https://sdtimes.com/softwaredev/rpa-handling-mundane-tasks-freeing-up-developers/) shows a new emerging field where even current software developers are being impacted by automation technology.
 The article exhibits a positive reaction to this technology as it speaks about the many mundane tasks that exists for engineers such
 
